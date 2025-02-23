@@ -1,2 +1,2 @@
 # git-practice
-hoja-de-trabajo
+Practica Preparcial
