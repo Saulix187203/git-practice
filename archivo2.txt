@@ -1,0 +1,2 @@
+Esto es un archivo de la rama feature2
+para que se entienda mejor, aqui subo mas texto
